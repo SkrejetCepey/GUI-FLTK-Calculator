@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(55,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(59,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(63,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(177,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(212,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(127,7): warning C4101: 'str3': unreferenced local variable
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(300,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(335,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(250,7): warning C4101: 'str3': unreferenced local variable
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(403,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(407,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dev\source\repos\lab3new\lab3new\Source.cpp(492,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  lab3new.vcxproj -> C:\Users\Dev\source\repos\lab3new\Debug\lab3new.exe
